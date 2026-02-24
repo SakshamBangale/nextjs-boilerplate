@@ -1,5 +1,3 @@
-
-
 # 🚀 Next.js Project
 
 ## 📌 Overview
